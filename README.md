@@ -1,10 +1,5 @@
 <h3 align= "center"> Hello World! </h3>
-Facts about me:
--
--
--
--
--
+##Facts about me:
 My tools:
 <img alt="Static Badge" src="https://img.shields.io/badge/py-python-lightblue?logo=python"> and brain
 
